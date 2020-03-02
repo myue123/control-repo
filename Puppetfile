@@ -18,6 +18,6 @@ mod 'puppetlabs-ntp', '8.0.0'
 #  branch: 'docs_experiment'
 
 mod 'apache',
-  :git => 'https://github.com/myue123/puppet-apache'
+   git:    'https://github.com/myue123/puppet-apache'
 #
 
